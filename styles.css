@@ -1,0 +1,25 @@
+li {
+  list-style: none;
+}
+
+.col-3 {
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+}
+
+.btn-outline-primary {
+  background-color: #d9d9d9;
+  color: #ffff;
+  border-color: ##fce168;
+}
+
+input {
+  margin: 10px;
+  width: 50%;
+}
+
+.form-control {
+  margin: 10px;
+  width: 50%;
+}
